@@ -91,10 +91,20 @@
     
 <h2><p align="center">Contact me on:</p></h2>
 <!-- LinkedIn Bagdes start -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nareshsharma-profile" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nareshsharma-profile?trk=profile-badge" target="_blank">Naresh Sharma</a>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Page Title</title>
+  <!-- LinkedIn badge script -->
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</head>
+<body>
+  <!-- LinkedIn badge div -->
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nareshsharma-profile" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nareshsharma-profile?trk=profile-badge" target="_blank">Naresh Sharma</a>
+  </div>
+</body>
+</html>
 
 <!-- LinkedIn Badges ends -->
 
