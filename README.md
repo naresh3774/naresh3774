@@ -90,10 +90,14 @@
 </p>
     
 <h2><p align="center">Contact me on:</p></h2>
- 
+<!-- LinkedIn Batch start -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nareshsharma-profile" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nareshsharma-profile?trk=profile-badge">Naresh Sharma</a></div>
+<!-- LinkedIn Batch ends -->
+              
 <p>
 <div align="center">
-	<a href="https://www.linkedin.com/in/nareshsharma-profile/" rel="nofollow">
+	<a href="https://www.linkedin.com/in/nareshsharma-profile/" rel="nofollow" target="_blank">
   		<img alt="Naresh Sharma's LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-3670A0?style=for-the-badge&logo=linkedin&logoColor=ffdd54" style="max-width: 100%;">
 	</a>
 </div>
