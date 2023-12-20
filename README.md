@@ -112,7 +112,7 @@
 <p align="left">
   <a>
     <img width="49.5%" src="https://github-contributor-stats.vercel.app/api?username=naresh3774&limit=5&theme=radical&hide_border=truetheme=dark&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh3774&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh3774&limit=5&theme=radical&hide_border=truetheme=dark">		  
   </a>
 </p>
 <br>
