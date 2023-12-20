@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/naresh3774/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&random=false&width=435&lines=Act+on+your+dreams.;Go+beyond+limits.;And+do+what+inspires+you.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/naresh3774/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&random=false&width=435&lines=Act+on+your+dreams.;Go+beyond+limits.;Do+what+inspires+you.;&center=true&width=500&height=50"></a>
 </p>
 
 <h2><p align="left">💻 Tech Stack:</p></h2>
