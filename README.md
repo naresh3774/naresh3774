@@ -120,14 +120,15 @@
 
 <h2><p align="left"><img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me</p></h2>
 
-<br/>
+<p align="left" style="color: #fff; font-size: 18px;">
+<li>Seasoned DevOps Engineer with 8 years of hands-on experience in architecting, deploying, and managing robust cloud infrastructure and cutting-edge DevOps solutions.</li>
 
-<p align="left" style="color: #ffffff; font-size: 18px;">
-Seasoned DevOps Engineer with 8 years of hands-on experience in architecting, deploying, and managing robust cloud infrastructure and cutting-edge DevOps solutions.
-Proficient in leveraging a spectrum of cloud platforms including AWS, Azure, and GCP to streamline CI/CD pipelines, optimize Kubernetes clusters, and automate scalable and secure environments.
-Skilled in orchestrating containerized applications with Docker and Kubernetes, implementing advanced monitoring and logging strategies, and integrating state-of-the-art tools like Helm, Ansible, for seamless deployment and robust infrastructure management.
-Adept at driving efficiencies through Kubeflow, and AI-based solutions while prioritizing security, scalability, and high-performance computing.
-Strong collaborator, continuously seeking innovative approaches to optimize workflows and elevate organizational productivity within fast-paced, dynamic environments.
+<li>Proficient in leveraging a spectrum of cloud platforms including AWS, Azure, and GCP to streamline CI/CD pipelines, optimize Kubernetes clusters, and automate scalable and secure environments. </li>
+
+<li>Skilled in orchestrating containerized applications with Docker and Kubernetes, implementing advanced monitoring and logging strategies, and integrating state-of-the-art tools like Helm, Ansible, for seamless deployment and robust infrastructure management.</li>
+
+<li>Adept at driving efficiencies through Kubeflow, and AI-based solutions while prioritizing security, scalability, and high-performance computing.</li>
+<li>Strong collaborator, continuously seeking innovative approaches to optimize workflows and elevate organizational productivity within fast-paced, dynamic environments.</li>
 
 </p>
 
